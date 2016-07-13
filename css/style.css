@@ -1,0 +1,23 @@
+body {
+	font-family: 'Indie Flower', cursive;
+    background-color: #3F51B5;
+}
+
+.box {
+    background-color: #E3F2FD;
+    width: 90%;
+    border: 2px solid black;
+    padding: 25px;
+    margin: 30px auto;
+}
+
+@media screen and (min-width: 500px) {
+    .box {
+        width: 480px;
+    }
+}
+
+.pic {
+    width: 64px;
+    height: 64px;
+}

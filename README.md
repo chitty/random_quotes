@@ -1,1 +1,3 @@
-# random_quotes
+# RANDOM QUOTES
+
+A random quote generator.
